@@ -1,0 +1,1 @@
+# nextjs-static_site_generation
